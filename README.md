@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## i'm Arthur
+## I'm Arthur
 - I live in São Paulo, Brazil
 - I am a Computer Science student at UNINOVE College
 
