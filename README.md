@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## i'm Arthur
+- I live in São Paulo, Brazil
+- I am a Computer Science student at UNINOVE College
+
+## Connect with me
+- [Linkedin](https://www.linkedin.com/in/arthur-timoteo-a49779184/)
+
 <!--
 **arthur-timoteo/arthur-timoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
