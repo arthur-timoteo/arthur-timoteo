@@ -2,7 +2,6 @@
 
 ## I'm Arthur
 - I live in São Paulo, Brazil
-- I am a Computer Science student at UNINOVE College
 
 ## Connect with me
 - [Linkedin](https://www.linkedin.com/in/arthur-timoteo-a49779184/)
