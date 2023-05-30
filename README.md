@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-## I'm Arthur
-- I live in São Paulo, Brazil
-
 <!--
 **arthur-timoteo/arthur-timoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
